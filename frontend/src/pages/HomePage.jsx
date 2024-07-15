@@ -110,6 +110,7 @@ export default function Component() {
                         id="ph"
                         type="number"
                         placeholder="Soil pH"
+                        max={14}
                         className="w-full border border-gray-300 p-2 rounded-md"
                         required
                       />

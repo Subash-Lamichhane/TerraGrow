@@ -29,7 +29,7 @@ function HeroSection() {
                                 </div>
                             </h1>
                             <p className="max-w-[600px] text-gray-700 md:text-xl pt-4">
-                                Enhance your farming practices with Agro {'–'} the ultimate agriculture management solution. Input soil, temperature, and humidity details to predict the best crops to maximize your yield with MindsDB.
+                                Enhance your farming practices with TerraGrow {'–'} the ultimate agriculture management solution. Input soil, temperature, and humidity details to predict the best crops to maximize your yield with MindsDB.
                             </p>
                         </div>
                         <div className="flex flex-col gap-2 min-[400px]:flex-row pt-4">
