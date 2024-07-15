@@ -7,7 +7,7 @@ git clone https://github.com/Subash-Lamichhane/TerraGrow.git
 ```
 #### Run Docker
 - Install docker on from [here](https://www.docker.com/)
-- Run the command to create Docker container for MindsDB:
+- Run the command to create Docker container for MindsDB lightwood:
 ```bash
 docker run --name mindsdb_container_lightwood -p 47334:47334 -p 47335:47335 mindsdb/mindsdb:lightwood
 ```
@@ -90,7 +90,7 @@ cd ../backend
 yarn
 ```
 
-Set up the environment variables by creating a `.env.local` file in the server directory and add your Gemini API key:
+Set up the environment variables by creating a `.env` file in the backend directory and add given details:
 
 ```bash
 PORT=3000
