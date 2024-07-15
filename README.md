@@ -1,7 +1,7 @@
 
 ---
 
-# TerraGrow: Grow Smart, Plant Right
+# <p align="center">TerraGrow: Grow Smart, Plant Right</p>
 <p align="center">
     <a href="https://github.com/Subash-Lamichhane/TerraGrow" target="blank">
         <img src="https://img.shields.io/github/watchers/Subash-Lamichhane/TerraGrow?style=for-the-badge&logo=appveyor" alt="Watchers"/>
