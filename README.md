@@ -25,13 +25,13 @@
 
 ## Overview
 
-TerraGrow is a web application designed to help you make informed decisions about planting crops based on environmental factors. By analyzing data such as nitrogen (N), phosphorus (P), potassium (K) levels, temperature, humidity, and pH, TerraGrow provides personalized recommendations to optimize your planting strategy.
+TerraGrow is a sophisticated web application designed to empower you with data-driven insights for optimal crop planting decisions. By leveraging advanced analytics on key environmental factors such as nitrogen (N), phosphorus (P), potassium (K) levels, temperature, humidity, and pH, TerraGrow utilizes MindsDB queries and it's prediction models to deliver crop recommendations. Grow smarter with TerraGrow and achieve superior crop yields through informed planting strategies.
 
 # Dataset 
 [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) is being used for this project. You can get this dataset from kaggle. The label encoded form of dataset can be found inside ```dataset``` folder.  
 ## Key Features
 
-- **Smart Planting Recommendations:** Utilize data-driven insights to suggest the best crops to plant.
+- **Smart Planting Recommendations:** Leverage MindsDB-powered models to suggest optimal crops based on comprehensive environmental data.
 - **User-Friendly Interface:** Easy-to-use web interface for inputting data and viewing crop recommendations.
 - **Precision Agriculture:** Improve agricultural efficiency by planting the right crops in the right conditions.
 - **Customizable Inputs:** Adjust parameters to match specific agricultural environments and preferences.
