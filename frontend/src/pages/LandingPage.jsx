@@ -28,8 +28,8 @@ function HeroSection() {
                                     />
                                 </div>
                             </h1>
-                            <p className="max-w-[600px] text-gray-700 md:text-xl pt-3">
-                                Enhance your farming practices with Agro {'–'} the ultimate agriculture management solution. Input soil, temperature, and humidity details to predict the best crops and get suggestions to maximize your yield with MindsDB and advanced AI.
+                            <p className="max-w-[600px] text-gray-700 md:text-xl pt-4">
+                                Enhance your farming practices with Agro {'–'} the ultimate agriculture management solution. Input soil, temperature, and humidity details to predict the best crops to maximize your yield with MindsDB.
                             </p>
                         </div>
                         <div className="flex flex-col gap-2 min-[400px]:flex-row pt-4">
@@ -41,7 +41,7 @@ function HeroSection() {
                             >
                                 <Link
                                     className="inline-flex h-12 items-center justify-center bg-green-800 px-10 text-base font-medium text-white shadow transition-colors hover:bg-green-700 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-green-800 disabled:pointer-events-none disabled:opacity-50 rounded-full"
-                                    to="/dashboard"
+                                    to="/home"
                                 >
                                     Try It Now
                                 </Link>

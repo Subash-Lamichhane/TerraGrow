@@ -10,11 +10,11 @@ const AboutPage = () => {
         <div className="grid gap-8 lg:grid-cols-2 lg:gap-12">
           <div>
             <h1 className="text-2xl font-bold tracking-tighter text-foreground sm:text-4xl md:text-5xl">
-              Discover the Perfect Plants for Your Soil
+              Discover the Perfect Plants for Your Soil With TerraGrow
             </h1>
             <p className="mt-4 text-muted-foreground md:text-lg">
               Our website is dedicated to helping gardeners and farmers find the most suitable plants for their unique
-              soil and environmental conditions. With our expert guidance, you can unlock the full potential of your
+              soil and environmental conditions. With our AI expert guidance, you can unlock the full potential of your
               land and enjoy bountiful harvests.
             </p>
           </div>
@@ -54,7 +54,7 @@ const AboutPage = () => {
           <div className="grid gap-2">
             <h2 className="text-xl font-bold tracking-tighter text-foreground">Expertise You Can Trust</h2>
             <p className="text-muted-foreground md:text-xl">
-              Our team of horticulture and soil model have been optimally trained with suitable dataset to increase accuracy. We're dedicated to empowering you with the knowledge and tools to create a
+              Our model have been optimally trained with suitable dataset to increase accuracy. We're dedicated to empowering you with the knowledge and tools to create a
               flourishing, eco-friendly landscape.
             </p>
           </div>

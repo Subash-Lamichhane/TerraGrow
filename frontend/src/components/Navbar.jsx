@@ -23,7 +23,7 @@ const Navbar = () => {
                         id="studyPal"
                     >
                         <span className="self-center text-2xl font-[600] whitespace-nowrap text-white">
-                            Agriculture<span className="text-green-400">Predict</span>
+                        Terra<span className="text-green-400">Grow</span>
                         </span>
                     </Link>
                     <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
