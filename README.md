@@ -53,7 +53,7 @@ TerraGrow is a sophisticated web application designed to empower you with data-d
 
 
 ### Installation
-For installation refer to ```INSTALLATION.md```. Click [here](./INSTALLATION.MD) to navigate to it.
+For installation refer to ```INSTALLATION.md```. Click [here](./INSTALLATION.md) to navigate to it.
 
 
 ## Usage
